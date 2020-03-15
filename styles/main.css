@@ -280,7 +280,7 @@ h1 {
     font-weight: bold;
     font-size: 16px;
     line-height: 14px;
-    border: 2px solid #0075FF;
+    border: 2px solid #0075ff;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
     border-radius: 8px;
@@ -384,8 +384,8 @@ h1 {
     line-height: 14px;
     background: #0075ff;
     color: #fff;
-    -webkit-box-shadow: 0px 6px 23px rgba(0, 117, 255, 0.46);
-            box-shadow: 0px 6px 23px rgba(0, 117, 255, 0.46);
+    -webkit-box-shadow: 0 6px 23px rgba(0, 117, 255, 0.46);
+            box-shadow: 0 6px 23px rgba(0, 117, 255, 0.46);
     border-radius: 8px; }
   @media (max-width: 768px) {
     .section-consultation__wrapper {
@@ -536,8 +536,8 @@ h1 {
     line-height: 14px;
     background: #0075ff;
     color: #fff;
-    -webkit-box-shadow: 0px 6px 23px rgba(0, 117, 255, 0.46);
-            box-shadow: 0px 6px 23px rgba(0, 117, 255, 0.46);
+    -webkit-box-shadow: 0 6px 23px rgba(0, 117, 255, 0.46);
+            box-shadow: 0 6px 23px rgba(0, 117, 255, 0.46);
     border-radius: 8px; }
   @media (max-width: 768px) {
     .section-contact-us__wrapper {
